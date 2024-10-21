@@ -1,1 +1,3 @@
-http://51.159.55.105/m3u8/band.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id=" TNT [4K]" tvg-name="TNT [4K]" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT [4K]
+http://play.1list.vip/live/isaias/339754/215404.ts
