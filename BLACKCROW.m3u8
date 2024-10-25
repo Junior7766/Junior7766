@@ -1,21 +1,21 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="Jogos de Hoje",Jogos de Hoje
 http://play.1list.vip/live/isaias/339754/194567.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
 http://play.1list.vip/live/isaias/339754/37104.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN  [4K]
 http://play.1list.vip/live/isaias/339754/215398.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
 http://play.1list.vip/live/isaias/339754/37105.ts
-#EXTINF:-1 tvg-id=""espn.2.br" tvg-name="ESPN 2  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2  [4K]
+#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2  [4K]
 http://play.1list.vip/live/isaias/339754/215399.ts
-#EXTINF:-1 tvg-id=""espn.2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://play.1list.vip/live/isaias/339754/38401.ts
-#EXTINF:-1 tvg-id=""espn.2.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD H265
+#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD H265
 http://play.1list.vip/live/isaias/339754/59097.ts
-#EXTINF:-1 tvg-id=""espn.2.br" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 H265
+#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 H265
 http://play.1list.vip/live/isaias/339754/62869.ts
-#EXTINF:-1 tvg-id=""espn.2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
 http://play.1list.vip/live/isaias/339754/36977.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3
 http://play.1list.vip/live/isaias/339754/62745.ts
