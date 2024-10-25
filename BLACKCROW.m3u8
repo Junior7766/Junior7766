@@ -1,21 +1,21 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="Jogos de Hoje",Jogos de Hoje
 http://play.1list.vip/live/isaias/339754/194567.ts
-#EXTINF:-1 tvg-id="espn_2.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
+#EXTINF:-1 tvg-id=" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
 http://play.1list.vip/live/isaias/339754/37104.ts
-#EXTINF:-1 tvg-id="espn%2.br" tvg-name="ESPN  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN  [4K]
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN  [4K]
 http://play.1list.vip/live/isaias/339754/215398.ts
-#EXTINF:-1 tvg-id="espn_2.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
 http://play.1list.vip/live/isaias/339754/37105.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2  [4K]
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2  [4K]
 http://play.1list.vip/live/isaias/339754/215399.ts
-#EXTINF:-1 tvg-id="espn%2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://play.1list.vip/live/isaias/339754/38401.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD H265
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD H265
 http://play.1list.vip/live/isaias/339754/59097.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 H265
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 H265
 http://play.1list.vip/live/isaias/339754/62869.ts
-#EXTINF:-1 tvg-id=""espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-id=""" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
 http://play.1list.vip/live/isaias/339754/36977.ts
 #EXTINF:-1 tvg-id=""none" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3
 http://play.1list.vip/live/isaias/339754/62745.ts
@@ -179,15 +179,15 @@ http://play.1list.vip/live/isaias/339754/36948.ts
 http://play.1list.vip/live/isaias/339754/40783.ts
 #EXTINF:-1 tvg-id="Copa do Brasil 1 (S)" tvg-name="Copa do Brasil Prime Video 1 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (A)
 http://play.1list.vip/live/isaias/339754/107423.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Copa do Brasil Prime Video 1 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (B)
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil Prime Video 1 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (B)
 http://play.1list.vip/live/isaias/339754/86455.ts
 #EXTINF:-1 tvg-id="Copa do Brasil 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (A)
 http://play.1list.vip/live/isaias/339754/107424.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Copa do Brasil Prime Video 2 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (B)
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil Prime Video 2 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (B)
 http://play.1list.vip/live/isaias/339754/86456.ts
 #EXTINF:-1 tvg-id="Copa do Brasil 3 (S)" tvg-name="Copa do Brasil Prime Video 3 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (A)
 http://play.1list.vip/live/isaias/339754/112425.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Copa do Brasil Prime Video 3 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (B)
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil Prime Video 3 (B)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (B)
 http://play.1list.vip/live/isaias/339754/87777.ts
 #EXTINF:-1 tvg-id="Copa do Brasil 4 (S)" tvg-name="Copa do Brasil Prime Video 4 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 4 (A)
 http://play.1list.vip/live/isaias/339754/112426.ts
@@ -203,17 +203,17 @@ http://play.1list.vip/live/isaias/339754/176742.ts
 http://play.1list.vip/live/isaias/339754/176741.ts
 #EXTINF:-1 tvg-id="Star+ HD 7 (B)" tvg-name="Disney+ 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (B)
 http://play.1list.vip/live/isaias/339754/176740.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD (A)
 http://play.1list.vip/live/isaias/339754/82245.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 2 (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 2 (A)
 http://play.1list.vip/live/isaias/339754/82510.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3 (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3 (A)
 http://play.1list.vip/live/isaias/339754/82512.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
 http://play.1list.vip/live/isaias/339754/85329.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
 http://play.1list.vip/live/isaias/339754/85330.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
 http://play.1list.vip/live/isaias/339754/89548.ts
 #EXTINF:-1 tvg-id="record.br" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/mxen2CW.png" group-title="Canais | RecordTV",RecordTV
 http://play.1list.vip/live/isaias/339754/37051.ts
@@ -267,13 +267,13 @@ http://play.1list.vip/live/isaias/339754/36990.ts
 http://play.1list.vip/live/isaias/339754/100740.ts
 #EXTINF:-1 tvg-id="band.minas.br" tvg-name="Band Minas HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Minas HD
 http://play.1list.vip/live/isaias/339754/100739.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="EPTV Sul de Minas FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
 http://play.1list.vip/live/isaias/339754/73061.ts
 #EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Sul de Minas HD
 http://play.1list.vip/live/isaias/339754/73062.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo Belo Horizonte FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Belo Horizonte FHD
+#EXTINF:-1 tvg-id="" tvg-name="Globo Belo Horizonte FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Belo Horizonte FHD
 http://play.1list.vip/live/isaias/339754/72814.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo Belo Horizonte HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Belo Horizonte HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo Belo Horizonte HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Belo Horizonte HD
 http://play.1list.vip/live/isaias/339754/72815.ts
 #EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Brasília FHD
 http://play.1list.vip/live/isaias/339754/64592.ts
@@ -285,7 +285,7 @@ http://play.1list.vip/live/isaias/339754/40513.ts
 http://play.1list.vip/live/isaias/339754/215396.ts
 #EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Minas FHD
 http://play.1list.vip/live/isaias/339754/41515.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo Minas FHD - H265" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Minas FHD - H265
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD - H265" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Minas FHD - H265
 http://play.1list.vip/live/isaias/339754/68058.ts
 #EXTINF:-1 tvg-id="globo.minas.br" tvg-name="Globo Minas FHD H265" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Minas FHD H265
 http://play.1list.vip/live/isaias/339754/91293.ts
@@ -305,11 +305,11 @@ http://play.1list.vip/live/isaias/339754/38391.ts
 http://play.1list.vip/live/isaias/339754/62797.ts
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="https://i.imgur.com/VN1Z2T0.png" group-title="Canais | Noticias",Band News HD
 http://play.1list.vip/live/isaias/339754/42411.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN Rio
+#EXTINF:-1 tvg-id="" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN Rio
 http://play.1list.vip/live/isaias/339754/100714.ts
 #EXTINF:-1 tvg-id="CBN Rio HD" tvg-name="CBN Rio HD" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN Rio HD
 http://play.1list.vip/live/isaias/339754/216551.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CBN São Paulo" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN São Paulo
+#EXTINF:-1 tvg-id="" tvg-name="CBN São Paulo" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN São Paulo
 http://play.1list.vip/live/isaias/339754/100713.ts
 #EXTINF:-1 tvg-id="CBN São Paulo HD" tvg-name="CBN São Paulo HD" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN São Paulo HD
 http://play.1list.vip/live/isaias/339754/216552.ts
@@ -341,15 +341,15 @@ http://play.1list.vip/live/isaias/339754/62840.ts
 http://play.1list.vip/live/isaias/339754/36917.ts
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews [4K]" tvg-logo="https://i.imgur.com/j55Akuw.png" group-title="Canais | Noticias",GloboNews [4K]
 http://play.1list.vip/live/isaias/339754/74789.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News FHD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News FHD (A)
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News FHD (A)
 http://play.1list.vip/live/isaias/339754/83444.ts
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS FHD (J)" tvg-name="Jovem Pan News FHD (B)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News FHD (B)
 http://play.1list.vip/live/isaias/339754/85006.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News HD (A)
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News HD (A)
 http://play.1list.vip/live/isaias/339754/83443.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News HD (B)
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News HD (B)
 http://play.1list.vip/live/isaias/339754/85005.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News [4K]" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News [4K]" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News [4K]
 http://play.1list.vip/live/isaias/339754/88138.ts
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News" tvg-logo="https://i.imgur.com/0I1TG6s.png" group-title="Canais | Noticias",Record News
 http://play.1list.vip/live/isaias/339754/41529.ts
@@ -365,7 +365,7 @@ http://play.1list.vip/live/isaias/339754/62133.ts
 http://play.1list.vip/live/isaias/339754/75171.ts
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" tvg-logo="https://i.imgur.com/MpK9QbO.png" group-title="Canais | Noticias",TV Brasil HD
 http://play.1list.vip/live/isaias/339754/63632.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Web TV Água Boa" tvg-logo="https://i.imgur.com/GlmTAPc.png" group-title="Canais | Noticias",Web TV Água Boa
+#EXTINF:-1 tvg-id="" tvg-name="Web TV Água Boa" tvg-logo="https://i.imgur.com/GlmTAPc.png" group-title="Canais | Noticias",Web TV Água Boa
 http://play.1list.vip/live/isaias/339754/62130.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="https://i.imgur.com/nUrChh4.png" group-title="Canais | Filmes e Series",A&E
 http://play.1list.vip/live/isaias/339754/37130.ts
@@ -713,25 +713,25 @@ http://play.1list.vip/live/isaias/339754/42901.ts
 http://play.1list.vip/live/isaias/339754/62865.ts
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/CufUNOo.png" group-title="Canais | HBO",HBO Xtreme HD
 http://play.1list.vip/live/isaias/339754/36912.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 01 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 01 (B)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 01 (B)
 http://play.1list.vip/live/isaias/339754/90555.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 02 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 02 (B)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 02 (B)
 http://play.1list.vip/live/isaias/339754/90556.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 03 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 03 (B)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 03 (B)
 http://play.1list.vip/live/isaias/339754/90557.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 04 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 04 (B)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 (B)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 04 (B)
 http://play.1list.vip/live/isaias/339754/90558.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 1 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 1 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 1 (A)
 http://play.1list.vip/live/isaias/339754/82375.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 2 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 2 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 2 (A)
 http://play.1list.vip/live/isaias/339754/82373.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 3 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 3 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 3 (A)
 http://play.1list.vip/live/isaias/339754/89556.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 4 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 4 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 4 (A)
 http://play.1list.vip/live/isaias/339754/89557.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 5 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 5 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 5 (A)
 http://play.1list.vip/live/isaias/339754/91220.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 6 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 6 (A)
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 (A)" tvg-logo="https://i.imgur.com/pLDVho7.png" group-title="Canais | MAX",HBO MAX 6 (A)
 http://play.1list.vip/live/isaias/339754/91221.ts
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet
 http://play.1list.vip/live/isaias/339754/37128.ts
@@ -787,13 +787,13 @@ http://play.1list.vip/live/isaias/339754/62877.ts
 http://play.1list.vip/live/isaias/339754/36982.ts
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo [4K]" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo [4K]
 http://play.1list.vip/live/isaias/339754/74794.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World
 http://play.1list.vip/live/isaias/339754/64498.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World FHD
 http://play.1list.vip/live/isaias/339754/38387.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Documentarios",Discovery World H265
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Documentarios",Discovery World H265
 http://play.1list.vip/live/isaias/339754/62875.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/Ui0H3lq.png" group-title="Canais | Documentarios",Discovery World HD
 http://play.1list.vip/live/isaias/339754/36981.ts
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://i.imgur.com/WYHgoaz.png" group-title="Canais | Documentarios",HGTV
 http://play.1list.vip/live/isaias/339754/63272.ts
@@ -841,7 +841,7 @@ http://play.1list.vip/live/isaias/339754/36956.ts
 http://play.1list.vip/live/isaias/339754/86529.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AniTV" tvg-logo="https://i.imgur.com/o7p5Ahx.jpeg" group-title="Canais | Infantil",AniTV
 http://play.1list.vip/live/isaias/339754/56468.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/yEt0gfJ.png" group-title="Canais | Infantil",BabyFirst
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/yEt0gfJ.png" group-title="Canais | Infantil",BabyFirst
 http://play.1list.vip/live/isaias/339754/90597.ts
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
 http://play.1list.vip/live/isaias/339754/36993.ts
@@ -867,7 +867,7 @@ http://play.1list.vip/live/isaias/339754/37123.ts
 http://play.1list.vip/live/isaias/339754/38390.ts
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Infantil",Cartoonito H265
 http://play.1list.vip/live/isaias/339754/62800.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="Canais | Infantil",Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="Canais | Infantil",Cartoonito HD
 http://play.1list.vip/live/isaias/339754/63627.ts
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="Desenhos Clássicos" tvg-logo="https://i.imgur.com/Sp8Dyxa.jpeg" group-title="Canais | Infantil",Desenhos Clássicos
 http://play.1list.vip/live/isaias/339754/63650.ts
@@ -899,7 +899,7 @@ http://play.1list.vip/live/isaias/339754/38396.ts
 http://play.1list.vip/live/isaias/339754/62843.ts
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/Flmlkhi.png" group-title="Canais | Infantil",Gloob HD
 http://play.1list.vip/live/isaias/339754/36915.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
 http://play.1list.vip/live/isaias/339754/63720.ts
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho FHD
 http://play.1list.vip/live/isaias/339754/41483.ts
@@ -907,7 +907,7 @@ http://play.1list.vip/live/isaias/339754/41483.ts
 http://play.1list.vip/live/isaias/339754/62814.ts
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
 http://play.1list.vip/live/isaias/339754/38969.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Nick" tvg-logo="https://i.imgur.com/rvx5KS2.png" group-title="Canais | Infantil",Nick
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://i.imgur.com/rvx5KS2.png" group-title="Canais | Infantil",Nick
 http://play.1list.vip/live/isaias/339754/37064.ts
 #EXTINF:-1 tvg-id="nick.br" tvg-name="Nick FHD" tvg-logo="https://i.imgur.com/rvx5KS2.png" group-title="Canais | Infantil",Nick FHD
 http://play.1list.vip/live/isaias/339754/40039.ts
@@ -917,7 +917,7 @@ http://play.1list.vip/live/isaias/339754/62886.ts
 http://play.1list.vip/live/isaias/339754/36907.ts
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/8aQxupQ.png" group-title="Canais | Infantil",Nick Jr.
 http://play.1list.vip/live/isaias/339754/37065.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/03WWmRB.png" group-title="Canais | Infantil",Nick Jr. Club
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/03WWmRB.png" group-title="Canais | Infantil",Nick Jr. Club
 http://play.1list.vip/live/isaias/339754/90596.ts
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr. FHD" tvg-logo="https://i.imgur.com/8aQxupQ.png" group-title="Canais | Infantil",Nick Jr. FHD
 http://play.1list.vip/live/isaias/339754/41498.ts
@@ -927,7 +927,7 @@ http://play.1list.vip/live/isaias/339754/62884.ts
 http://play.1list.vip/live/isaias/339754/36908.ts
 #EXTINF:-1 tvg-id="play.br" tvg-name="PlayKids HD" tvg-logo="https://i.imgur.com/fUowuVi.png" group-title="Canais | Infantil",PlayKids HD
 http://play.1list.vip/live/isaias/339754/41359.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Junior" tvg-logo="https://i.imgur.com/0wwQIbc.png" group-title="Canais | Infantil",TV Junior
+#EXTINF:-1 tvg-id="" tvg-name="TV Junior" tvg-logo="https://i.imgur.com/0wwQIbc.png" group-title="Canais | Infantil",TV Junior
 http://play.1list.vip/live/isaias/339754/90594.ts
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/uOzaGny.png" group-title="Canais | Infantil",TV Ra Tim Bum
 http://play.1list.vip/live/isaias/339754/37015.ts
@@ -949,7 +949,7 @@ http://play.1list.vip/live/isaias/339754/63647.ts
 http://play.1list.vip/live/isaias/339754/91586.ts
 #EXTINF:-1 tvg-id="CANAL SAUDE FHD" tvg-name="Tv Loading" tvg-logo="https://i.imgur.com/xFbshql.png" group-title="Canais | Infantil",Tv Loading
 http://play.1list.vip/live/isaias/339754/91573.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Urban Kids HD" tvg-logo="https://i.imgur.com/FpSr5vr.jpeg" group-title="Canais | Infantil",Urban Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Urban Kids HD" tvg-logo="https://i.imgur.com/FpSr5vr.jpeg" group-title="Canais | Infantil",Urban Kids HD
 http://play.1list.vip/live/isaias/339754/86528.ts
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png" group-title="Canais | Infantil",Zoomoo
 http://play.1list.vip/live/isaias/339754/59355.ts
@@ -959,13 +959,13 @@ http://play.1list.vip/live/isaias/339754/63778.ts
 http://play.1list.vip/live/isaias/339754/63779.ts
 #EXTINF:-1 tvg-id="CHAVES TEMPORADA 03 E 04 24H" tvg-name="CHAVES" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CHAVES
 http://play.1list.vip/live/isaias/339754/91767.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Marvel vs DC" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Cine Marvel vs DC
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel vs DC" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Cine Marvel vs DC
 http://play.1list.vip/live/isaias/339754/71889.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="OS FLINTSTONES" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",OS FLINTSTONES
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",OS FLINTSTONES
 http://play.1list.vip/live/isaias/339754/58095.ts
 #EXTINF:-1 tvg-id="SIMPSONS 24" tvg-name="SIMPSONS 24" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",SIMPSONS 24
 http://play.1list.vip/live/isaias/339754/63174.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="X-Man" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",X-Man
+#EXTINF:-1 tvg-id="" tvg-name="X-Man" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",X-Man
 http://play.1list.vip/live/isaias/339754/56470.ts
 #EXTINF:-1 tvg-id="YU-YU-Hakusho" tvg-name="YU-YU-Hakusho" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",YU-YU-Hakusho
 http://play.1list.vip/live/isaias/339754/217866.ts
@@ -993,7 +993,7 @@ http://play.1list.vip/live/isaias/339754/217861.ts
 http://play.1list.vip/live/isaias/339754/217385.ts
 #EXTINF:-1 tvg-id="A VIDA E AVENTURAS DE JUNIPER LEE" tvg-name="A Vida e Aventuras de Juniper Lee [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",A Vida e Aventuras de Juniper Lee [24h]
 http://play.1list.vip/live/isaias/339754/217384.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ALADIN 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",ALADIN 24h
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",ALADIN 24h
 http://play.1list.vip/live/isaias/339754/59753.ts
 #EXTINF:-1 tvg-id="ANIMAÇÃO 1" tvg-name="Animação 1 [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Animação 1 [24h]
 http://play.1list.vip/live/isaias/339754/217877.ts
@@ -1021,11 +1021,11 @@ http://play.1list.vip/live/isaias/339754/217377.ts
 http://play.1list.vip/live/isaias/339754/217859.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cascão Maratona 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Cascão Maratona 24h
 http://play.1list.vip/live/isaias/339754/61884.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Central Kids [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Central Kids [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Central Kids [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Central Kids [24h]
 http://play.1list.vip/live/isaias/339754/100630.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Chapolin Colorado 24hs" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Chapolin Colorado 24hs
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Chapolin Colorado 24hs
 http://play.1list.vip/live/isaias/339754/59743.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Chaves [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Chaves [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Chaves [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Chaves [24h]
 http://play.1list.vip/live/isaias/339754/39762.ts
 #EXTINF:-1 tvg-id="CORAGEM O CÃO COVARDE" tvg-name="Coragem o Cão Covarde [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Coragem o Cão Covarde [24h]
 http://play.1list.vip/live/isaias/339754/217376.ts
@@ -1089,7 +1089,7 @@ http://play.1list.vip/live/isaias/339754/217862.ts
 http://play.1list.vip/live/isaias/339754/217322.ts
 #EXTINF:-1 tvg-id="Mortal Kombat 24hs" tvg-name="Mortal Kombat 24hs" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Mortal Kombat 24hs
 http://play.1list.vip/live/isaias/339754/63203.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mortal Kombat os Defensores da Terra [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Mortal Kombat os Defensores da Terra [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat os Defensores da Terra [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Mortal Kombat os Defensores da Terra [24h]
 http://play.1list.vip/live/isaias/339754/100627.ts
 #EXTINF:-1 tvg-id="O INCRIVEL MUNDO DE GUMBALL" tvg-name="O Incrível Mundo de Gumball [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",O Incrível Mundo de Gumball [24h]
 http://play.1list.vip/live/isaias/339754/217321.ts
@@ -1103,15 +1103,15 @@ http://play.1list.vip/live/isaias/339754/57344.ts
 http://play.1list.vip/live/isaias/339754/217319.ts
 #EXTINF:-1 tvg-id="OS PINGUINS DE MADAGASCAR" tvg-name="Os Pinguins de Madagascar [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Os Pinguins de Madagascar [24h]
 http://play.1list.vip/live/isaias/339754/217407.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PATATI PATATA [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",PATATI PATATA [24h]
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",PATATI PATATA [24h]
 http://play.1list.vip/live/isaias/339754/39781.ts
 #EXTINF:-1 tvg-id="PICA-PAU CLÁSSICO [24h]" tvg-name="PICA-PAU CLÁSSICO [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",PICA-PAU CLÁSSICO [24h]
 http://play.1list.vip/live/isaias/339754/132046.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="POCOYO 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",POCOYO 24h
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",POCOYO 24h
 http://play.1list.vip/live/isaias/339754/61888.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Padrinhos Magicos e Pica Pau 24h" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Padrinhos Magicos e Pica Pau 24h
 http://play.1list.vip/live/isaias/339754/62275.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Peppa Pig [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Peppa Pig [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Peppa Pig [24h]
 http://play.1list.vip/live/isaias/339754/39572.ts
 #EXTINF:-1 tvg-id="MegaMan 24hs" tvg-name="Pernalonga24hs" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Pernalonga24hs
 http://play.1list.vip/live/isaias/339754/63202.ts
@@ -1151,7 +1151,7 @@ http://play.1list.vip/live/isaias/339754/217396.ts
 http://play.1list.vip/live/isaias/339754/217868.ts
 #EXTINF:-1 tvg-id="TOM E JERRY" tvg-name="Tom e Jerry [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Tom e Jerry [24h]
 http://play.1list.vip/live/isaias/339754/217395.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Turma da Monica [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Turma da Monica [24h]
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Turma da Monica [24h]
 http://play.1list.vip/live/isaias/339754/39571.ts
 #EXTINF:-1 tvg-id="TURMA DA MONICA" tvg-name="Turma da Mônica [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Turma da Mônica [24h]
 http://play.1list.vip/live/isaias/339754/217394.ts
@@ -1163,25 +1163,25 @@ http://play.1list.vip/live/isaias/339754/217392.ts
 http://play.1list.vip/live/isaias/339754/217867.ts
 #EXTINF:-1 tvg-id="O Fantástico Mundo de Bobby 24HS" tvg-name="O Fantástico Mundo de Bobby 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",O Fantástico Mundo de Bobby 24HS
 http://play.1list.vip/live/isaias/339754/63205.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="101 Dalmatas 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",101 Dalmatas 24HS
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatas 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",101 Dalmatas 24HS
 http://play.1list.vip/live/isaias/339754/70109.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A Lula Lele 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",A Lula Lele 24HS
+#EXTINF:-1 tvg-id="" tvg-name="A Lula Lele 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",A Lula Lele 24HS
 http://play.1list.vip/live/isaias/339754/70300.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Aladdin 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Aladdin 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Aladdin 24HS
 http://play.1list.vip/live/isaias/339754/70110.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="As Aventuras de Tintim 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",As Aventuras de Tintim 24HS
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",As Aventuras de Tintim 24HS
 http://play.1list.vip/live/isaias/339754/70111.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="As Tartarugas Ninjas Classico 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",As Tartarugas Ninjas Classico 24HS
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas Classico 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",As Tartarugas Ninjas Classico 24HS
 http://play.1list.vip/live/isaias/339754/91652.ts
 #EXTINF:-1 tvg-id="Asterix e Obelix 24HS" tvg-name="Asterix e Obelix 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Asterix e Obelix 24HS
 http://play.1list.vip/live/isaias/339754/70389.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Ben 10 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Ben 10 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Ben 10 24HS
 http://play.1list.vip/live/isaias/339754/59747.ts
 #EXTINF:-1 tvg-id="TRÊS ESPIÃS DEMAIS 24H" tvg-name="Ben10 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Ben10 24H
 http://play.1list.vip/live/isaias/339754/91779.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Bibo Pai e Bob Filho 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Bibo Pai e Bob Filho 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Bibo Pai e Bob Filho 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Bibo Pai e Bob Filho 24HS
 http://play.1list.vip/live/isaias/339754/70112.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Bicudo O Lobisomem 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Bicudo O Lobisomem 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Bicudo O Lobisomem 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Bicudo O Lobisomem 24HS
 http://play.1list.vip/live/isaias/339754/70113.ts
 #EXTINF:-1 tvg-id="Billy e Mandy 24HS" tvg-name="Billy e Mandy 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Billy e Mandy 24HS
 http://play.1list.vip/live/isaias/339754/70386.ts
@@ -1193,25 +1193,25 @@ http://play.1list.vip/live/isaias/339754/91777.ts
 http://play.1list.vip/live/isaias/339754/59746.ts
 #EXTINF:-1 tvg-id="Bob Esponja Kamp koral 24H" tvg-name="Bob Esponja Kamp Koral 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Bob Esponja Kamp Koral 24H
 http://play.1list.vip/live/isaias/339754/91729.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CAO CORAGEM 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CAO CORAGEM 24HS
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CAO CORAGEM 24HS
 http://play.1list.vip/live/isaias/339754/59744.ts
 #EXTINF:-1 tvg-id="CAVERNA DO DRAGÃO 24H" tvg-name="CAVERNA DO DRAGÃO 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CAVERNA DO DRAGÃO 24H
 http://play.1list.vip/live/isaias/339754/91764.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CHAVES 24H
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CHAVES 24H
 http://play.1list.vip/live/isaias/339754/91744.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",CHAVES DESENHO 24HS
 http://play.1list.vip/live/isaias/339754/59103.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Carmen Sandiego 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Carmen Sandiego 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Carmen Sandiego 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Carmen Sandiego 24HS
 http://play.1list.vip/live/isaias/339754/70107.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cavalo de Fogo 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Cavalo de Fogo 24H
 http://play.1list.vip/live/isaias/339754/62272.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Caverna do Dragão 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Caverna do Dragão 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Caverna do Dragão 24HS
 http://play.1list.vip/live/isaias/339754/59748.ts
 #EXTINF:-1 tvg-id="Cãezinhos do Canil 24HS" tvg-name="Cãezinhos do Canil 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Cãezinhos do Canil 24HS
 http://play.1list.vip/live/isaias/339754/70399.ts
 #EXTINF:-1 tvg-id="DC Super Hero Girls 24HS" tvg-name="DC Super Hero Girls 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DC Super Hero Girls 24HS
 http://play.1list.vip/live/isaias/339754/70387.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DRAGON BALL SUPER 24HS
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DRAGON BALL SUPER 24HS
 http://play.1list.vip/live/isaias/339754/58092.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGON BALL Z 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DRAGON BALL Z 24HS
 http://play.1list.vip/live/isaias/339754/57682.ts
@@ -1219,13 +1219,13 @@ http://play.1list.vip/live/isaias/339754/57682.ts
 http://play.1list.vip/live/isaias/339754/57343.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desenhos Disney 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Desenhos Disney 24HS
 http://play.1list.vip/live/isaias/339754/59102.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Dino Boy e o Vale Perdido 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Dino Boy e o Vale Perdido 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Dino Boy e o Vale Perdido 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Dino Boy e o Vale Perdido 24HS
 http://play.1list.vip/live/isaias/339754/70108.ts
 #EXTINF:-1 tvg-id="Don Quixote 24HS" tvg-name="Don Quixote 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Don Quixote 24HS
 http://play.1list.vip/live/isaias/339754/70390.ts
 #EXTINF:-1 tvg-id="CHANGEMAN 24H" tvg-name="Doug 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Doug 24H
 http://play.1list.vip/live/isaias/339754/91766.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DuckTales 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DuckTales 24HS
+#EXTINF:-1 tvg-id="" tvg-name="DuckTales 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",DuckTales 24HS
 http://play.1list.vip/live/isaias/339754/70114.ts
 #EXTINF:-1 tvg-id="Familia Urso 24HS" tvg-name="Familia Urso 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Familia Urso 24HS
 http://play.1list.vip/live/isaias/339754/70391.ts
@@ -1241,7 +1241,7 @@ http://play.1list.vip/live/isaias/339754/56623.ts
 http://play.1list.vip/live/isaias/339754/63198.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaspion & Jonny Quest 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Jaspion & Jonny Quest 24HS
 http://play.1list.vip/live/isaias/339754/62273.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Josie e as Gatinhas 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Josie e as Gatinhas 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Josie e as Gatinhas 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Josie e as Gatinhas 24HS
 http://play.1list.vip/live/isaias/339754/70115.ts
 #EXTINF:-1 tvg-id="VINGADORES UNIDOS 24H" tvg-name="Kenan e Kel 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Kenan e Kel 24H
 http://play.1list.vip/live/isaias/339754/91758.ts
@@ -1263,7 +1263,7 @@ http://play.1list.vip/live/isaias/339754/63204.ts
 http://play.1list.vip/live/isaias/339754/56465.ts
 #EXTINF:-1 tvg-id="O Show da Luna 24HS" tvg-name="O Show da Luna 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",O Show da Luna 24HS
 http://play.1list.vip/live/isaias/339754/70388.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="O Vira-Lata 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",O Vira-Lata 24HS
+#EXTINF:-1 tvg-id="" tvg-name="O Vira-Lata 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",O Vira-Lata 24HS
 http://play.1list.vip/live/isaias/339754/70302.ts
 #EXTINF:-1 tvg-id="Os Anjinhos - Rugrats 24HS" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Os Anjinhos - Rugrats 24HS
 http://play.1list.vip/live/isaias/339754/65253.ts
@@ -1279,7 +1279,7 @@ http://play.1list.vip/live/isaias/339754/63207.ts
 http://play.1list.vip/live/isaias/339754/57341.ts
 #EXTINF:-1 tvg-id="Papa-Léguas 24HS" tvg-name="Papa-Léguas 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Papa-Léguas 24HS
 http://play.1list.vip/live/isaias/339754/63208.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Patrulha Canina 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Patrulha Canina 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Patrulha Canina 24HS
 http://play.1list.vip/live/isaias/339754/63074.ts
 #EXTINF:-1 tvg-id="Phineas e Ferb 24HS" tvg-name="Phineas e Ferb 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Phineas e Ferb 24HS
 http://play.1list.vip/live/isaias/339754/63209.ts
@@ -1301,27 +1301,27 @@ http://play.1list.vip/live/isaias/339754/65257.ts
 http://play.1list.vip/live/isaias/339754/70395.ts
 #EXTINF:-1 tvg-id="Steven Universe 24HS" tvg-name="Steven Universe 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Steven Universe 24HS
 http://play.1list.vip/live/isaias/339754/65258.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Street Fighter 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Street Fighter 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Street Fighter 24HS
 http://play.1list.vip/live/isaias/339754/91654.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Super Amigos 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Amigos 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Super Amigos 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Amigos 24HS
 http://play.1list.vip/live/isaias/339754/70301.ts
 #EXTINF:-1 tvg-id="Super Choque 24HS" tvg-name="Super Choque 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Choque 24HS
 http://play.1list.vip/live/isaias/339754/65264.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Super Dragon Ball Heroes 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Dragon Ball Heroes 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Super Dragon Ball Heroes 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Dragon Ball Heroes 24HS
 http://play.1list.vip/live/isaias/339754/91650.ts
 #EXTINF:-1 tvg-id="Super Wings 24HS" tvg-name="Super Wings 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Super Wings 24HS
 http://play.1list.vip/live/isaias/339754/73039.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Thundercats 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Thundercats 24H
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Thundercats 24H
 http://play.1list.vip/live/isaias/339754/91337.ts
 #EXTINF:-1 tvg-id="Tres Espias Demais 24HS" tvg-name="Tres Espias Demais 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Tres Espias Demais 24HS
 http://play.1list.vip/live/isaias/339754/65260.ts
 #EXTINF:-1 tvg-id="Uma Família da Pesada 24HS" tvg-name="Uma Família da Pesada 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Uma Família da Pesada 24HS
 http://play.1list.vip/live/isaias/339754/65262.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Ursinhos Carinhosos 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Ursinhos Carinhosos 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Ursinhos Carinhosos 24HS
 http://play.1list.vip/live/isaias/339754/91644.ts
 #EXTINF:-1 tvg-id="Zig e Sharko 24HS" tvg-name="Zig e Sharko 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Zig e Sharko 24HS
 http://play.1list.vip/live/isaias/339754/70385.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Zé Buscapé 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Zé Buscapé 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Zé Buscapé 24HS" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Infantil",Zé Buscapé 24HS
 http://play.1list.vip/live/isaias/339754/70116.ts
 #EXTINF:-1 tvg-id="CINE PLAY 10" tvg-name="Cine Play 01" tvg-logo="https://i.imgur.com/oI43fzE.png" group-title="Canais | 24 Horas Variados",Cine Play 01
 http://play.1list.vip/live/isaias/339754/215149.ts
@@ -1393,11 +1393,11 @@ http://play.1list.vip/live/isaias/339754/166138.ts
 http://play.1list.vip/live/isaias/339754/166139.ts
 #EXTINF:-1 tvg-id="A Gata Comeu 24h" tvg-name="[DOC]  Jornada ao Começo dos Tempos" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC]  Jornada ao Começo dos Tempos
 http://play.1list.vip/live/isaias/339754/81840.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC]  O MAIS PROCURADO DO MUNDO" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC]  O MAIS PROCURADO DO MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="[DOC]  O MAIS PROCURADO DO MUNDO" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC]  O MAIS PROCURADO DO MUNDO
 http://play.1list.vip/live/isaias/339754/91740.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] A VIDA DE UM BODYBUILDER" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] A VIDA DE UM BODYBUILDER
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] A VIDA DE UM BODYBUILDER" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] A VIDA DE UM BODYBUILDER
 http://play.1list.vip/live/isaias/339754/100629.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] ALBERT EINSTEIN" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] ALBERT EINSTEIN
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] ALBERT EINSTEIN" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] ALBERT EINSTEIN
 http://play.1list.vip/live/isaias/339754/39576.ts
 #EXTINF:-1 tvg-id="TV Beltrão FHD" tvg-name="[DOC] ANTÁRTIDA" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] ANTÁRTIDA
 http://play.1list.vip/live/isaias/339754/162986.ts
@@ -1409,21 +1409,21 @@ http://play.1list.vip/live/isaias/339754/91330.ts
 http://play.1list.vip/live/isaias/339754/132045.ts
 #EXTINF:-1 tvg-id="Rei do Gado 24h" tvg-name="[DOC] Japão Yakuza" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Japão Yakuza
 http://play.1list.vip/live/isaias/339754/81841.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] LEONARDO DA VINCI" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] LEONARDO DA VINCI
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] LEONARDO DA VINCI" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] LEONARDO DA VINCI
 http://play.1list.vip/live/isaias/339754/61969.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] O que Aconteceu com o YAHOO!" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] O que Aconteceu com o YAHOO!
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] O que Aconteceu com o YAHOO!" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] O que Aconteceu com o YAHOO!
 http://play.1list.vip/live/isaias/339754/91738.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Os 20 Dias de Lázaro" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Os 20 Dias de Lázaro
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] Os 20 Dias de Lázaro" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Os 20 Dias de Lázaro
 http://play.1list.vip/live/isaias/339754/91570.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] PUTIN" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] PUTIN
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] PUTIN" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] PUTIN
 http://play.1list.vip/live/isaias/339754/91728.ts
 #EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="[DOC] SERTÃO VELHO CERRADO" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] SERTÃO VELHO CERRADO
 http://play.1list.vip/live/isaias/339754/142707.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Somália" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Somália
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] Somália" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Somália
 http://play.1list.vip/live/isaias/339754/90974.ts
 #EXTINF:-1 tvg-id="DreamWorks" tvg-name="[DOC] Vida Selvagem Mundo Animal" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] Vida Selvagem Mundo Animal
 http://play.1list.vip/live/isaias/339754/142706.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] África Selvagem" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] África Selvagem
+#EXTINF:-1 tvg-id="" tvg-name="[DOC] África Selvagem" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] África Selvagem
 http://play.1list.vip/live/isaias/339754/81845.ts
 #EXTINF:-1 tvg-id="AWTV [24h]" tvg-name="AWTV [24h]" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",AWTV [24h]
 http://play.1list.vip/live/isaias/339754/132005.ts
@@ -1447,21 +1447,21 @@ http://play.1list.vip/live/isaias/339754/217880.ts
 http://play.1list.vip/live/isaias/339754/65265.ts
 #EXTINF:-1 tvg-id="A Grande Familia 24HS" tvg-name="A Grande Familia 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",A Grande Familia 24H
 http://play.1list.vip/live/isaias/339754/65261.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Animais Selvagens 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Animais Selvagens 24H
+#EXTINF:-1 tvg-id="" tvg-name="Animais Selvagens 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Animais Selvagens 24H
 http://play.1list.vip/live/isaias/339754/69793.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Ash vs Evil Dead 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Ash vs Evil Dead 24H
+#EXTINF:-1 tvg-id="" tvg-name="Ash vs Evil Dead 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Ash vs Evil Dead 24H
 http://play.1list.vip/live/isaias/339754/69789.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasil Selvagem 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Brasil Selvagem 24H
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Selvagem 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Brasil Selvagem 24H
 http://play.1list.vip/live/isaias/339754/71867.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Breaking Bad 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Breaking Bad 24H
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Breaking Bad 24H
 http://play.1list.vip/live/isaias/339754/59749.ts
 #EXTINF:-1 tvg-id="Cameras Escondidas Silvio Santos" tvg-name="Cameras Escondidas Silvio Santos 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Cameras Escondidas Silvio Santos 24H
 http://play.1list.vip/live/isaias/339754/122991.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Caça-Fantasma 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Caça-Fantasma 24H
+#EXTINF:-1 tvg-id="" tvg-name="Caça-Fantasma 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Caça-Fantasma 24H
 http://play.1list.vip/live/isaias/339754/70303.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Chapolin  24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Chapolin  24H
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin  24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Chapolin  24H
 http://play.1list.vip/live/isaias/339754/91338.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Desastres Aéreos 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Desastres Aéreos 24H
+#EXTINF:-1 tvg-id="" tvg-name="Desastres Aéreos 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Desastres Aéreos 24H
 http://play.1list.vip/live/isaias/339754/64035.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dois Homens e Meio 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Dois Homens e Meio 24H
 http://play.1list.vip/live/isaias/339754/59100.ts
@@ -1469,33 +1469,33 @@ http://play.1list.vip/live/isaias/339754/59100.ts
 http://play.1list.vip/live/isaias/339754/57186.ts
 #EXTINF:-1 tvg-id="Jackass 24H" tvg-name="Jackass 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Jackass 24H
 http://play.1list.vip/live/isaias/339754/64785.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Largados e Pelados 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Largados e Pelados 24H
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Largados e Pelados 24H
 http://play.1list.vip/live/isaias/339754/71694.ts
 #EXTINF:-1 tvg-id="O Inspetor 24HS" tvg-name="O Inspetor 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",O Inspetor 24H
 http://play.1list.vip/live/isaias/339754/63206.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="O Universo 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",O Universo 24H
+#EXTINF:-1 tvg-id="" tvg-name="O Universo 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",O Universo 24H
 http://play.1list.vip/live/isaias/339754/69794.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Os Trapalhões 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Os Trapalhões 24H
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Os Trapalhões 24H
 http://play.1list.vip/live/isaias/339754/69790.ts
 #EXTINF:-1 tvg-id="POLICIA 24H" tvg-name="POLICIA 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",POLICIA 24H
 http://play.1list.vip/live/isaias/339754/63276.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Pegadinha 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Pegadinha 24H
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinha 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Pegadinha 24H
 http://play.1list.vip/live/isaias/339754/62947.ts
 #EXTINF:-1 tvg-id="Pesadelo na Cozinha 24HS" tvg-name="Pesadelo na Cozinha 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Pesadelo na Cozinha 24H
 http://play.1list.vip/live/isaias/339754/72916.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Pronto Socorro 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Pronto Socorro 24H
+#EXTINF:-1 tvg-id="" tvg-name="Pronto Socorro 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Pronto Socorro 24H
 http://play.1list.vip/live/isaias/339754/71695.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="QUILOS MORTAIS 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",QUILOS MORTAIS 24H
+#EXTINF:-1 tvg-id="" tvg-name="QUILOS MORTAIS 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",QUILOS MORTAIS 24H
 http://play.1list.vip/live/isaias/339754/84976.ts
 #EXTINF:-1 tvg-id="Rambo 24HS" tvg-name="Rambo 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Rambo 24H
 http://play.1list.vip/live/isaias/339754/65254.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Roma 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Roma 24H
+#EXTINF:-1 tvg-id="" tvg-name="Roma 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Roma 24H
 http://play.1list.vip/live/isaias/339754/69792.ts
 #EXTINF:-1 tvg-id="Show Gospel 24HS" tvg-name="Show Gospel 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Show Gospel 24H
 http://play.1list.vip/live/isaias/339754/65251.ts
 #EXTINF:-1 tvg-id="Smallville 24HS" tvg-name="Smallville 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Smallville 24H
 http://play.1list.vip/live/isaias/339754/65256.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Sobrenatural 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Sobrenatural 24H
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Sobrenatural 24H
 http://play.1list.vip/live/isaias/339754/58093.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stand Up Comedy 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Stand Up Comedy 24H
 http://play.1list.vip/live/isaias/339754/62967.ts
@@ -1503,17 +1503,17 @@ http://play.1list.vip/live/isaias/339754/62967.ts
 http://play.1list.vip/live/isaias/339754/65259.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todo Mundo Odeia o Chris 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Todo Mundo Odeia o Chris 24H
 http://play.1list.vip/live/isaias/339754/56467.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Trato Feito 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Trato Feito 24H
+#EXTINF:-1 tvg-id="" tvg-name="Trato Feito 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Trato Feito 24H
 http://play.1list.vip/live/isaias/339754/69791.ts
 #EXTINF:-1 tvg-id="Vai que Cola 1 24H" tvg-name="Vai que Cola 1 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Vai que Cola 1 24H
 http://play.1list.vip/live/isaias/339754/63678.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Vai que Cola 2 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Vai que Cola 2 24H
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola 2 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Vai que Cola 2 24H
 http://play.1list.vip/live/isaias/339754/63679.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Xena 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Xena 24H
+#EXTINF:-1 tvg-id="" tvg-name="Xena 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",Xena 24H
 http://play.1list.vip/live/isaias/339754/65263.ts
 #EXTINF:-1 tvg-id="Genesis 24h" tvg-name="[DOC] DISCOVERY 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC] DISCOVERY 24H
 http://play.1list.vip/live/isaias/339754/81838.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC]Discovery 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC]Discovery 24H
+#EXTINF:-1 tvg-id="" tvg-name="[DOC]Discovery 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="Canais | 24 Horas Variados",[DOC]Discovery 24H
 http://play.1list.vip/live/isaias/339754/69689.ts
 #EXTINF:-1 tvg-id="A Fazenda 16: CAM 01 (A)" tvg-name="A Fazenda 16: CAM 01 (A)" tvg-logo="https://i.imgur.com/VbLSSDi.png" group-title="Reality | A Fazenda 16",A Fazenda 16: CAM 01 (A)
 http://play.1list.vip/live/isaias/339754/216765.ts
@@ -1635,7 +1635,7 @@ http://play.1list.vip/live/isaias/339754/62860.ts
 http://play.1list.vip/live/isaias/339754/36914.ts
 #EXTINF:-1 tvg-id="LIKE FHD" tvg-name="Like FHD" tvg-logo="https://i.imgur.com/UPERkum.png" group-title="Canais | Variedades",Like FHD
 http://play.1list.vip/live/isaias/339754/215140.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Like HD" tvg-logo="https://i.imgur.com/UPERkum.png" group-title="Canais | Variedades",Like HD
+#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="https://i.imgur.com/UPERkum.png" group-title="Canais | Variedades",Like HD
 http://play.1list.vip/live/isaias/339754/91508.ts
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/jmACHJA.jpg" group-title="Canais | Variedades",Love Nature
 http://play.1list.vip/live/isaias/339754/91588.ts
@@ -1643,7 +1643,7 @@ http://play.1list.vip/live/isaias/339754/91588.ts
 http://play.1list.vip/live/isaias/339754/37071.ts
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Variedades",MTV - H265
 http://play.1list.vip/live/isaias/339754/51252.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/bepBgde.png" group-title="Canais | Variedades",MTV 00s HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/bepBgde.png" group-title="Canais | Variedades",MTV 00s HD
 http://play.1list.vip/live/isaias/339754/36900.ts
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/mYpwWiH.png" group-title="Canais | Variedades",MTV FHD
 http://play.1list.vip/live/isaias/339754/40266.ts
@@ -1705,13 +1705,13 @@ http://play.1list.vip/live/isaias/339754/86536.ts
 http://play.1list.vip/live/isaias/339754/121561.ts
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL.png" group-title="Canais | Variedades",Red Bull TV
 http://play.1list.vip/live/isaias/339754/64672.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Rede Clone TV" tvg-logo="https://i.imgur.com/UIL1QPV.png" group-title="Canais | Variedades",Rede Clone TV
+#EXTINF:-1 tvg-id="" tvg-name="Rede Clone TV" tvg-logo="https://i.imgur.com/UIL1QPV.png" group-title="Canais | Variedades",Rede Clone TV
 http://play.1list.vip/live/isaias/339754/91325.ts
 #EXTINF:-1 tvg-id="rede.minas.br" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/ruj4kAp.png" group-title="Canais | Variedades",Rede Minas
 http://play.1list.vip/live/isaias/339754/68407.ts
 #EXTINF:-1 tvg-id="rede.minas.br" tvg-name="Rede Minas FHD" tvg-logo="https://i.imgur.com/ruj4kAp.png" group-title="Canais | Variedades",Rede Minas FHD
 http://play.1list.vip/live/isaias/339754/91504.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Rede Mão Amiga" tvg-logo="https://i.imgur.com/EJj7PiG.png" group-title="Canais | Variedades",Rede Mão Amiga
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mão Amiga" tvg-logo="https://i.imgur.com/EJj7PiG.png" group-title="Canais | Variedades",Rede Mão Amiga
 http://play.1list.vip/live/isaias/339754/91513.ts
 #EXTINF:-1 tvg-id="Sabor & Arte FHD" tvg-name="Sabor & Arte FHD" tvg-logo="https://i.imgur.com/bEom5pI.png" group-title="Canais | Variedades",Sabor & Arte FHD
 http://play.1list.vip/live/isaias/339754/86533.ts
@@ -1719,9 +1719,9 @@ http://play.1list.vip/live/isaias/339754/86533.ts
 http://play.1list.vip/live/isaias/339754/86534.ts
 #EXTINF:-1 tvg-id="Shoptime" tvg-name="Shoptime" tvg-logo="https://i.imgur.com/TLeZHdl.png" group-title="Canais | Variedades",Shoptime
 http://play.1list.vip/live/isaias/339754/91274.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Shoptime FHD" tvg-logo="https://i.imgur.com/TLeZHdl.png" group-title="Canais | Variedades",Shoptime FHD
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime FHD" tvg-logo="https://i.imgur.com/TLeZHdl.png" group-title="Canais | Variedades",Shoptime FHD
 http://play.1list.vip/live/isaias/339754/80366.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Shoptime HD" tvg-logo="https://i.imgur.com/TLeZHdl.png" group-title="Canais | Variedades",Shoptime HD
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime HD" tvg-logo="https://i.imgur.com/TLeZHdl.png" group-title="Canais | Variedades",Shoptime HD
 http://play.1list.vip/live/isaias/339754/63783.ts
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="TBC FHD" tvg-logo="https://i.imgur.com/j4GMWSB.png" group-title="Canais | Variedades",TBC FHD
 http://play.1list.vip/live/isaias/339754/63261.ts
@@ -1791,11 +1791,11 @@ http://play.1list.vip/live/isaias/339754/62827.ts
 http://play.1list.vip/live/isaias/339754/36899.ts
 #EXTINF:-1 tvg-id="AGRO CANAL FHD" tvg-name="Agro Canal FHD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Canais | Abertos",Agro Canal FHD
 http://play.1list.vip/live/isaias/339754/91572.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Agro Canal HD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Canais | Abertos",Agro Canal HD
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal HD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Canais | Abertos",Agro Canal HD
 http://play.1list.vip/live/isaias/339754/71074.ts
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/jxKTuAd.png" group-title="Canais | Abertos",AgroMais
 http://play.1list.vip/live/isaias/339754/90975.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Agrobrasil TV" tvg-logo="https://i.imgur.com/lp4okGp.png" group-title="Canais | Abertos",Agrobrasil TV
+#EXTINF:-1 tvg-id="" tvg-name="Agrobrasil TV" tvg-logo="https://i.imgur.com/lp4okGp.png" group-title="Canais | Abertos",Agrobrasil TV
 http://play.1list.vip/live/isaias/339754/90973.ts
 #EXTINF:-1 tvg-id="Brasil TV Rural" tvg-name="Brasil TV Rural" tvg-logo="https://i.imgur.com/SBdADwI.png" group-title="Canais | Abertos",Brasil TV Rural
 http://play.1list.vip/live/isaias/339754/121548.ts
@@ -1833,17 +1833,17 @@ http://play.1list.vip/live/isaias/339754/60201.ts
 http://play.1list.vip/live/isaias/339754/190872.ts
 #EXTINF:-1 tvg-id="ideal.br" tvg-name="Ideal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/986px-Ideal_TV_logo.svg.png" group-title="Canais | Abertos",Ideal TV
 http://play.1list.vip/live/isaias/339754/63404.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mais na Tela" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela
 http://play.1list.vip/live/isaias/339754/63629.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mais na Tela FHD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela FHD
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela FHD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela FHD
 http://play.1list.vip/live/isaias/339754/42902.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mais na Tela FHD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela FHD
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela FHD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela FHD
 http://play.1list.vip/live/isaias/339754/91506.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mais na Tela H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Abertos",Mais na Tela H265
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Abertos",Mais na Tela H265
 http://play.1list.vip/live/isaias/339754/62861.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Mais na Tela HD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela HD
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD" tvg-logo="https://i.imgur.com/tj8yfWF.png" group-title="Canais | Abertos",Mais na Tela HD
 http://play.1list.vip/live/isaias/339754/73453.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Nova TV Agrotour" tvg-logo="https://i.imgur.com/js2nD1U.png" group-title="Canais | Abertos",Nova TV Agrotour
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV Agrotour" tvg-logo="https://i.imgur.com/js2nD1U.png" group-title="Canais | Abertos",Nova TV Agrotour
 http://play.1list.vip/live/isaias/339754/90971.ts
 #EXTINF:-1 tvg-id="redetv.sul.br" tvg-name="Rede TV Sul" tvg-logo="https://i.imgur.com/F1QG01y.png" group-title="Canais | Abertos",Rede TV Sul
 http://play.1list.vip/live/isaias/339754/91515.ts
@@ -1859,13 +1859,13 @@ http://play.1list.vip/live/isaias/339754/62811.ts
 http://play.1list.vip/live/isaias/339754/36946.ts
 #EXTINF:-1 tvg-id="RedeTV! Paraná HD" tvg-name="RedeTV! Paraná HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Paraná HD
 http://play.1list.vip/live/isaias/339754/215348.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="RedeTV! Piauí" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Piauí
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! Piauí" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Piauí
 http://play.1list.vip/live/isaias/339754/91311.ts
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! Tocantins" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Tocantins
 http://play.1list.vip/live/isaias/339754/91577.ts
 #EXTINF:-1 tvg-id="Rural Noar" tvg-name="Rural Noar" tvg-logo="https://i.imgur.com/KVnUn17.png" group-title="Canais | Abertos",Rural Noar
 http://play.1list.vip/live/isaias/339754/215346.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/CeSN4kG.png" group-title="Canais | Abertos",TOP TV
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/CeSN4kG.png" group-title="Canais | Abertos",TOP TV
 http://play.1list.vip/live/isaias/339754/100715.ts
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://i.imgur.com/0nXVcY0.png" group-title="Canais | Abertos",TRUTV
 http://play.1list.vip/live/isaias/339754/215142.ts
@@ -1873,7 +1873,7 @@ http://play.1list.vip/live/isaias/339754/215142.ts
 http://play.1list.vip/live/isaias/339754/121565.ts
 #EXTINF:-1 tvg-id="TV A Crítica Amazonas" tvg-name="TV A Crítica Amazonas" tvg-logo="https://i.imgur.com/ojLxssC.png" group-title="Canais | Abertos",TV A Crítica Amazonas
 http://play.1list.vip/live/isaias/339754/162991.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Aracati CE" tvg-logo="https://i.imgur.com/r3COViA.png" group-title="Canais | Abertos",TV Aracati CE
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati CE" tvg-logo="https://i.imgur.com/r3COViA.png" group-title="Canais | Abertos",TV Aracati CE
 http://play.1list.vip/live/isaias/339754/91327.ts
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura MA" tvg-logo="https://i.imgur.com/zBqTDrH.png" group-title="Canais | Abertos",TV Cultura MA
 http://play.1list.vip/live/isaias/339754/91315.ts
@@ -1897,19 +1897,19 @@ http://play.1list.vip/live/isaias/339754/62803.ts
 http://play.1list.vip/live/isaias/339754/91317.ts
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta PA" tvg-logo="https://i.imgur.com/kU0fCHZ.png" group-title="Canais | Abertos",TV Gazeta PA
 http://play.1list.vip/live/isaias/339754/91318.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Guarulhos HD" tvg-logo="https://i.imgur.com/6clOa4J.png" group-title="Canais | Abertos",TV Guarulhos HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Guarulhos HD" tvg-logo="https://i.imgur.com/6clOa4J.png" group-title="Canais | Abertos",TV Guarulhos HD
 http://play.1list.vip/live/isaias/339754/91493.ts
 #EXTINF:-1 tvg-id="TV J.SID BA" tvg-name="TV J.SID BA" tvg-logo="https://i.imgur.com/TK8eYdR.png" group-title="Canais | Abertos",TV J.SID BA
 http://play.1list.vip/live/isaias/339754/215151.ts
 #EXTINF:-1 tvg-id="Yes Life FHD" tvg-name="TV Jangadeiro FHD" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | Abertos",TV Jangadeiro FHD
 http://play.1list.vip/live/isaias/339754/121572.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Japi SP" tvg-logo="https://i.imgur.com/WqLJXtc.png" group-title="Canais | Abertos",TV Japi SP
+#EXTINF:-1 tvg-id="" tvg-name="TV Japi SP" tvg-logo="https://i.imgur.com/WqLJXtc.png" group-title="Canais | Abertos",TV Japi SP
 http://play.1list.vip/live/isaias/339754/91278.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Mais Brasil" tvg-logo="https://i.imgur.com/Jf43xwx.png" group-title="Canais | Abertos",TV Mais Brasil
+#EXTINF:-1 tvg-id="" tvg-name="TV Mais Brasil" tvg-logo="https://i.imgur.com/Jf43xwx.png" group-title="Canais | Abertos",TV Mais Brasil
 http://play.1list.vip/live/isaias/339754/91328.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Metrópole HD" tvg-logo="https://i.imgur.com/OI5s7OH.png" group-title="Canais | Abertos",TV Metrópole HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Metrópole HD" tvg-logo="https://i.imgur.com/OI5s7OH.png" group-title="Canais | Abertos",TV Metrópole HD
 http://play.1list.vip/live/isaias/339754/91492.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Nova Era HD" tvg-logo="https://i.imgur.com/KtLMj9u.png" group-title="Canais | Abertos",TV Nova Era HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Era HD" tvg-logo="https://i.imgur.com/KtLMj9u.png" group-title="Canais | Abertos",TV Nova Era HD
 http://play.1list.vip/live/isaias/339754/91509.ts
 #EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV Pampa (Rede TV RS)" tvg-logo="https://i.imgur.com/1NeHmWj.jpg" group-title="Canais | Abertos",TV Pampa (Rede TV RS)
 http://play.1list.vip/live/isaias/339754/76262.ts
@@ -1919,7 +1919,7 @@ http://play.1list.vip/live/isaias/339754/91574.ts
 http://play.1list.vip/live/isaias/339754/91277.ts
 #EXTINF:-1 tvg-id="TV Poços" tvg-name="TV Poços" tvg-logo="https://i.imgur.com/iEyae89.png" group-title="Canais | Abertos",TV Poços
 http://play.1list.vip/live/isaias/339754/91273.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV SOL HD" tvg-logo="https://i.imgur.com/7qT22bS.png" group-title="Canais | Abertos",TV SOL HD
+#EXTINF:-1 tvg-id="" tvg-name="TV SOL HD" tvg-logo="https://i.imgur.com/7qT22bS.png" group-title="Canais | Abertos",TV SOL HD
 http://play.1list.vip/live/isaias/339754/91490.ts
 #EXTINF:-1 tvg-id="TV Taroba HD" tvg-name="TV Taroba HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Tv-taroba-logo.png" group-title="Canais | Abertos",TV Taroba HD
 http://play.1list.vip/live/isaias/339754/63696.ts
