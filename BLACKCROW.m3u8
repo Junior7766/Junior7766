@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="http://play.1list.vip/xmltv.php?username=isaias&password=339754&type=xml"
 #EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="Jogos de Hoje",Jogos de Hoje
 http://globalsrv.me:80/612714/629529/1440908
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN FHD
