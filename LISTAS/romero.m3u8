@@ -1,4 +1,14 @@
 #EXTM3U url-tvg="http://play.1list.vip/xmltv.php?username=isaias&password=339754&type=xml"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Belo Horizonte FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Belo Horizonte FHD
+http://play.1list.vip/live/isaias/339754/72814.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band FHD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band FHD
+http://play.1list.vip/live/isaias/339754/38429.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RecordTV FHD" tvg-logo="https://i.imgur.com/mxen2CW.png" group-title="Canais | RecordTV",RecordTV FHD
+http://play.1list.vip/live/isaias/339754/38421.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT FHD
+http://play.1list.vip/live/isaias/339754/38420.ts
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo FHD" tvg-logo="https://i.imgur.com/9xsjbrE.png" group-title="Canais | Religioso",TV Novo Tempo FHD
+http://play.1list.vip/live/isaias/339754/61963.ts
 #EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="Jogos de Hoje",Jogos de Hoje
 http://globalsrv.me:80/612714/629529/1440908
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN FHD
