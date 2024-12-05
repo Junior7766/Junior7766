@@ -19,9 +19,9 @@
     "server_info": {
         "url": "assistirpainel.net",
         "port": "8880",
-        "https_port": "80",
+        "https_port": "443",
         "server_protocol": "http",
-        "rtmp_port": "80",
+        "rtmp_port": "8080",
         "timezone": "America/Sao_Paulo",
         "timestamp_now": 1709960182,
         "time_now": "2024-03-09 01:56:22",
