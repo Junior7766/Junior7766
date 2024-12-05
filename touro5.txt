@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "isaias",
-        "password": "339754",
+        "username": "3s8zpj6h24e",
+        "password": "ebayd2gkp41",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,8 +17,8 @@
         ]
     },
     "server_info": {
-        "url": "play.1list.vip",
-        "port": "80",
+        "url": "assistirpainel.net",
+        "port": "8880",
         "https_port": "80",
         "server_protocol": "http",
         "rtmp_port": "80",
