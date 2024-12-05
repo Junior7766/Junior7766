@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "i3FDZBieukulSEi",
-        "password": "zChA1EmW1R26AQd",
+        "username": "isaias",
+        "password": "339754",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "voz.one",
+        "url": "play.1list.vip",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
