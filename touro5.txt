@@ -5,7 +5,7 @@
         "message": "",
         "auth": 1,
         "status": "Active",
-        "exp_date": "2147483647",
+        "exp_date": "32532919928",
         "is_trial": "0",
         "active_cons": "1",
         "created_at": "1672332438",
