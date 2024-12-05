@@ -1,11 +1,11 @@
 {
     "user_info": {
-        "username": "3s8zpj6h24e",
-        "password": "ebayd2gkp41",
+        "username": "i3FDZBieukulSEi",
+        "password": "zChA1EmW1R26AQd",
         "message": "",
         "auth": 1,
         "status": "Active",
-        "exp_date": "32532919928",
+        "exp_date": "2147483647",
         "is_trial": "0",
         "active_cons": "1",
         "created_at": "1672332438",
@@ -17,8 +17,8 @@
         ]
     },
     "server_info": {
-        "url": "assistirpainel.net",
-        "port": "8880",
+        "url": "voz.one",
+        "port": "80",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
