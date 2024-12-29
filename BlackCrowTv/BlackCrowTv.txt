@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "i3FDZBieukulSEi",
-        "password": "zChA1EmW1R26AQd",
+        "username": "32607675",
+        "password": "71216010",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "voz.one",
+        "url": "digitalplus.top",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
