@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "21998887662",
-        "password": "8ezyjvcrtm",
+        "username": "listatvs",
+        "password": "controliptv",
         "message": "",
         "auth": 1,
         "status": "Active",
