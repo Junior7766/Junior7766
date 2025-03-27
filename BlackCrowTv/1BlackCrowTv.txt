@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "54784855887",
-        "password": "12345678910",
+        "username": "21998887662",
+        "password": "8ezyjvcrtm",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "assistirpainel.net",
+        "url": "play.1list.vip",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
