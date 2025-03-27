@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "listatvs",
-        "password": "controliptv",
+        "username": "tydhws",
+        "password": "mv0ebe",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "play.1list.vip",
+        "url": "cdn.brpro.live",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
