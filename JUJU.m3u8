@@ -1,3 +1,5 @@
 #EXTM3U url-tvg="http://play.1list.vip/xmltv.php?username=isaias&password=339754&type=xml"
-#EXTINF:-1 tvg-id="Cartoon" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="Jogos de Hoje",Jogos de Hoje
+#EXTINF:-1 tvg-id="Cartoon" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/VPAjjtA.png" group-title="juju",juju
 http://digitalplus.top:80/live/manoel74/51750703/3916232.ts
+#EXTINF:-1 tvg-id="Cartoon" tvg-name="looney tunes" tvg-logo="https://i.pinimg.com/736x/de/dd/71/dedd7156b37a275b95ce00badf110ece.jpg" group-title="juju",juju
+http://digitalplus.top:80/live/manoel74/51750703/3941337.ts
