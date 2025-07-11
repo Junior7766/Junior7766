@@ -1,5 +1,7 @@
-#EXTM3U url-tvg="http://digitalplus.top/xmltv.php?username=manoel74&password=51750703&type=xml"
-#EXTINF:-1 tvg-id="Cartoon" tvg-name="Cartoon network" tvg-logo="https://wallpapers.com/images/featured/cartoon-network-tquhlko4505v06u6.jpg" group-title="Canais",Cartoon network
-http://digitalplus.top:80/live/manoel74/51750703/3916232.ts
-#EXTINF:-1 tvg-id="Cartoon" tvg-name="looney tunes" tvg-logo="https://i.pinimg.com/736x/de/dd/71/dedd7156b37a275b95ce00badf110ece.jpg" group-title="24h",looney tunes
-http://digitalplus.top:80/live/manoel74/51750703/3941337.ts
+#EXTM3U url-tvg="http://digitalplus.top:80/xmltv.php?username=manoel74&password=51750703
+#EXTINF:-1,Cartoon Network FHD group-title="Xanais"
+http://digitalplus.top:80/manoel74/51750703/3916232
+#EXTINF:-1,24H - BABY LOONEY TUNES group-title="24h"
+http://digitalplus.top:80/manoel74/51750703/3941337
+#EXTINF:-1,Discovery Kids FHD group-title="24h"
+http://digitalplus.top:80/manoel74/51750703/3916430
