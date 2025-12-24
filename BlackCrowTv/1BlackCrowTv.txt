@@ -17,8 +17,8 @@
         ]
     },
     "server_info": {
-        "url": "assistirpainel.net:8080",
-        "port": "80",
+        "url": "assistirpainel.net",
+        "port": "8880",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
