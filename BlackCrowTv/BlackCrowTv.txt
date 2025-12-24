@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "listatvs",
-        "password": "controliptv",
+        "username": "54784855887",
+        "password": "12345678910",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,8 +17,8 @@
         ]
     },
     "server_info": {
-        "url": "play.1list.vip",
-        "port": "80",
+        "url": "assistirpainel.net",
+        "port": "8080",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
@@ -28,4 +28,5 @@
         "process": true
     }
 }
+
 
