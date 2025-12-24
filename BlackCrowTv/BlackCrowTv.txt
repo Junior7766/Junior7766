@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "manoel74",
-        "password": "51750703",
+        "username": "listatvs",
+        "password": "controliptv",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "digitalplus.top",
+        "url": "play.1list.vip",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
@@ -28,3 +28,4 @@
         "process": true
     }
 }
+
