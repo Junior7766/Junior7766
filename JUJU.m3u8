@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="http://alphav26.top/xmltv.php?username=luisinho&password=914379707&type=xml"
-#EXTINF:-1 tvg-id="Show da Luna" tvg-name="Show da Luna" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/O_Show_da_Luna.jpg" group-title="Canais",Show da Luna
+#EXTINF:-1 tvg-id="Show da Luna" tvg-name="Show da Luna" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/O_Show_da_Luna.jpg" group-title="Desenhos",Show da Luna
 http://alphav26.top:80/live/luisinho/914379707/262296.ts
+
+#EXTINF:-1 tvg-id="Show da Luna" tvg-name="Show da Luna" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_695738-MLB25932647899_082017-O.webp" group-title="Desenhos",doutora brinquedos
+http://alphav26.top:80/live/luisinho/914379707/262231.ts
 
