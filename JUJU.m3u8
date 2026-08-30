@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://play.dnsrot.vip/xmltv.php?username=listatvs&password=controliptv"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="[24hs] Show Da Luna" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Infantil",[24hs] Show Da Luna
 http://play.1list.vip/live/listatvs/controliptv/985652.ts
