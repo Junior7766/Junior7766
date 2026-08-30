@@ -1,12 +1,1 @@
-#EXTM3U url-tvg="http://play.dnsrot.vip/xmltv.php?username=luisinho&password=914379707&type=xml"
-#EXTINF:-1 tvg-id="Show da Luna" tvg-name="Show da Luna" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/O_Show_da_Luna.jpg" group-title="Desenhos",Show da Luna
-http://play.dnsrot.vip:80/live/4196267591/e0r25hqgeik/985652.ts
-
-#EXTINF:-1 tvg-id="Show da Luna" tvg-name="patrulha canina" tvg-logo="https://www.estadao.com.br/resizer/mk2arb89Uo37zMUhDXv31HuoH8o=/arc-anglerfish-arc2-prod-estadao/public/BKZHBFRAT5LKDHOZHISMY5AJ2A.jpg" group-title="Desenhos",patrulha canina
-http://play.dnsrot.vip:80/live/4196267591/e0r25hqgeik/962580.ts
-
-#EXTINF:-1 tvg-id="looney tunes baby" tvg-name="patrulha canina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5yyiGYwchgi_LOQ-ZcqQ892xqvHUi_dTkvPdKNqhJg&s=10" group-title="Desenhos",looney tunes baby
-http://play.dnsrot.vip:80/live/4196267591/e0r25hqgeik/935020.ts
-
-#EXTINF:90 tvg-id="" tvg-name="Meu Malvado Favorito (2010)" tvg-logo="" group-title="Filmes | Infantil",Meu Malvado Favorito (2010)
-http://play.1list.vip/movie/listatvs/controliptv/200979.mp4
+#EXTM3U url-tvg=
