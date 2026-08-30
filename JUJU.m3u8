@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="http://play.dnsrot.vip/xmltv.php?username=listatvs&password=controliptv&type=xml"
-#EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje",Jogos de Hoje
-http://play.1list.vip/live/listatvs/controliptv/194567.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal FHD " tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal FHD 
-http://play.1list.vip/live/listatvs/controliptv/91572.ts
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito (2010)" tvg-logo="" group-title="Filmes | Infantil",Meu Malvado Favorito (2010)
 http://play.1list.vip/movie/listatvs/controliptv/200979.mp4
