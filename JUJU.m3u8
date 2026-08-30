@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="http://play.dnsrot.vip/xmltv.php?username=listatvs&password=controliptv"
 
-#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito (2010)" tvg-logo="" group-title="Filmes | Infantil",Meu Malvado Favorito (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito (2010)" tvg-logo="https://cdn.mitvstatic.com/programs/br_meu-malvado-favorito-2010-1_l_m.jpg" group-title="Filmes | Infantil",Meu Malvado Favorito (2010)
 http://play.dnsrot.vip/movie/listatvs/controliptv/200979.mp4
