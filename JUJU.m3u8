@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://play.dnsrot.vip/xmltv.php?username=listatvs&password=controliptv&type=xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="[24hs] Show Da Luna" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWfy3vzmPUaEbeEj4IeuVkxwwUcOj_61B4ndNND9qZQ&s=10" group-title="Canais | 24h Infantil",[24hs] Show Da Luna
 http://play.dnsrot.vip/live/listatvs/controliptv/985652.ts
@@ -17,3 +17,12 @@ http://play.dnsrot.vip/movie/listatvs/controliptv/49808.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrujMpD6QpfwW0ecLOhOrkhxZ0VzSzy9O8WOQaiy9xA&s" group-title="Filmes | Infantil",O Poderoso Chefinho (2017)
 http://play.dnsrot.vip/movie/listatvs/controliptv/48428.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho 2: Negócios da Família (2021)" tvg-logo="" group-title="Filmes | Infantil",O Poderoso Chefinho 2: Negócios da Família (2021)
+http://play.dnsrot.vip/movie/listatvs/controliptv/83695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes 2 (2017)" tvg-logo="" group-title="Filmes | Infantil",O Que Será de Nozes 2 (2017)
+http://play.dnsrot.vip/movie/listatvs/controliptv/48270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes? (2014)" tvg-logo="" group-title="Filmes | Infantil",O Que Será de Nozes? (2014)
+http://play.dnsrot.vip/movie/listatvs/controliptv/1023724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Leão (1994)" tvg-logo="" group-title="Filmes | Infantil",O Rei Leão (1994)
+http://play.dnsrot.vip/movie/listatvs/controliptv/72670.mp4
