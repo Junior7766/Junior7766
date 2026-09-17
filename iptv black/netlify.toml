@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/config"
+  status = 200
+  force = true
