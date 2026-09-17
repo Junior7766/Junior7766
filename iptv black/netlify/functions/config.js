@@ -1,17 +1,18 @@
 exports.handler = async (event, context) => {
-    // Captura os parâmetros enviados na URL (?test1...)
-    const params = event.queryStringParameters || {};
+    // Pega a query bruta inteira enviada na requisição (ex: "?=test1&=&=5dd85046...")
+    const rawQuery = event.rawQuery || event.path || "";
     
     // Suas senhas permitidas
-    const senhasValidas = ["luciano0101", "jc7766", "test7766"];
+    const senhasValidas = ["test7766", "luciano1111", "jc7766"];
 
-    // Pega a senha enviada pelo app
-    const senhaDigitada = params.senha || Object.keys(params)[0];
+    // Verifica se QUALQUER UMA das senhas válidas está presente dentro do texto da URL enviada
+    const acessoPermitido = senhasValidas.some(senha => {
+        // Usa regex para procurar a senha exata no texto da URL
+        const regex = new RegExp(`[=?&]${senha}(?:[&=]|$)`);
+        return regex.test(rawQuery) || rawQuery.includes(senha);
+    });
 
-    // Se a senha estiver na lista permitida
-    if (senhaDigitada && senhasValidas.includes(senhaDigitada)) {
-        
-        // COLOQUE ABAIXO O CONTEÚDO DO SEU BLACKCROWTV.TXT (entre as crases)
+    if (acessoPermitido) {
         const conteudoTxt = `{
     "user_info": {
         "username": "listatvs",
@@ -45,14 +46,11 @@ exports.handler = async (event, context) => {
 
         return {
             statusCode: 200,
-            headers: { 
-                "Content-Type": "text/plain; charset=utf-8" 
-            },
+            headers: { "Content-Type": "application/json; charset=utf-8" },
             body: conteudoTxt
         };
     }
 
-    // Retorna erro 403 se a senha for inválida ou vazia
     return {
         statusCode: 403,
         headers: { "Content-Type": "text/plain; charset=utf-8" },
