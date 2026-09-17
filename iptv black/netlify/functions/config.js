@@ -1,23 +1,18 @@
 exports.handler = async (event, context) => {
-    // Pega os parâmetros da URL
-    const params = event.queryStringParameters || {};
+    // Pega a query bruta inteira enviada na requisição (ex: "?=test1&=&=5dd85046...")
+    const rawQuery = event.rawQuery || event.path || "";
     
     // Suas senhas permitidas
     const senhasValidas = ["test1", "senha123", "minhasenha"];
 
-    // Extrai todas as chaves e todos os valores enviados na URL
-    const chaves = Object.keys(params);
-    const valores = Object.values(params);
+    // Verifica se QUALQUER UMA das senhas válidas está presente dentro do texto da URL enviada
+    const acessoPermitido = senhasValidas.some(senha => {
+        // Usa regex para procurar a senha exata no texto da URL
+        const regex = new RegExp(`[=?&]${senha}(?:[&=]|$)`);
+        return regex.test(rawQuery) || rawQuery.includes(senha);
+    });
 
-    // Junta tudo que veio na URL em uma única lista
-    const todosParametros = [...chaves, ...valores];
-
-    // Verifica se alguma das senhas válidas está dentro da lista de parâmetros
-    const acessoPermitido = senhasValidas.some(senha => todosParametros.includes(senha));
-
-    // Se encontrou a senha
     if (acessoPermitido) {
-        
         const conteudoTxt = `{
     "user_info": {
         "username": "listatvs",
@@ -56,7 +51,6 @@ exports.handler = async (event, context) => {
         };
     }
 
-    // Se nenhuma senha válida for encontrada
     return {
         statusCode: 403,
         headers: { "Content-Type": "text/plain; charset=utf-8" },
