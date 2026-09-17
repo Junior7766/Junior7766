@@ -1,14 +1,23 @@
 exports.handler = async (event, context) => {
+    // Pega os parâmetros da URL
     const params = event.queryStringParameters || {};
     
     // Suas senhas permitidas
     const senhasValidas = ["test1", "senha123", "minhasenha"];
 
-    const senhaDigitada = params.senha || Object.keys(params)[0];
+    // Extrai todas as chaves e todos os valores enviados na URL
+    const chaves = Object.keys(params);
+    const valores = Object.values(params);
 
-    if (senhaDigitada && senhasValidas.includes(senhaDigitada)) {
+    // Junta tudo que veio na URL em uma única lista
+    const todosParametros = [...chaves, ...valores];
+
+    // Verifica se alguma das senhas válidas está dentro da lista de parâmetros
+    const acessoPermitido = senhasValidas.some(senha => todosParametros.includes(senha));
+
+    // Se encontrou a senha
+    if (acessoPermitido) {
         
-        // Texto da sua configuração IPTV/BlackCrowTV
         const conteudoTxt = `{
     "user_info": {
         "username": "listatvs",
@@ -47,6 +56,7 @@ exports.handler = async (event, context) => {
         };
     }
 
+    // Se nenhuma senha válida for encontrada
     return {
         statusCode: 403,
         headers: { "Content-Type": "text/plain; charset=utf-8" },
