@@ -38,14 +38,11 @@ exports.handler = async (event, context) => {
         "time_now": "2024-03-09 01:56:22",
         "process": true
     }
-}
-
-
-
+}`;
 
         return {
             statusCode: 200,
-            headers: { "Content-Type": "text/plain; charset=utf-8" },
+            headers: { "Content-Type": "application/json; charset=utf-8" },
             body: conteudoTxt
         };
     }
