@@ -12,9 +12,36 @@ exports.handler = async (event, context) => {
     if (senhaDigitada && senhasValidas.includes(senhaDigitada)) {
         
         // COLOQUE ABAIXO O CONTEÚDO DO SEU BLACKCROWTV.TXT (entre as crases)
-        const conteudoTxt = `http://link-do-servidor.com:8080
-usuario_exemplo
-senha_exemplo`;
+        const conteudoTxt = `{
+    "user_info": {
+        "username": "listatvs",
+        "password": "controliptv",
+        "message": "",
+        "auth": 1,
+        "status": "Active",
+        "exp_date": "2147483647",
+        "is_trial": "0",
+        "active_cons": "1",
+        "created_at": "1672332438",
+        "max_connections": "999",
+        "allowed_output_formats": [
+            "m3u8",
+            "ts",
+            "rtmp"
+        ]
+    },
+    "server_info": {
+        "url": "play.dnsrot.vip",
+        "port": "80",
+        "https_port": "443",
+        "server_protocol": "http",
+        "rtmp_port": "8080",
+        "timezone": "America/Sao_Paulo",
+        "timestamp_now": 1709960182,
+        "time_now": "2024-03-09 01:56:22",
+        "process": true
+    }
+}`;
 
         return {
             statusCode: 200,
