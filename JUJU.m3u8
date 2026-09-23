@@ -21,3 +21,6 @@ http://play.dnsrot.vip/movie/listatvs/controliptv/48428.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="O Bom Dinossauro (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCKqbqIqrzjnJ0lrerTScfeRN9v18gLicJ_yISbhqrw&s" group-title="Filmes | Infantil",O Bom Dinossauro (2015)
 http://play.dnsrot.vip/movie/listatvs/controliptv/49789.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="pica pau" tvg-logo="https://www.rbsdirect.com.br/imagesrc/27481529.jpg?w=700" group-title="Filmes | Infantil",pica pau
+http://play.dnsrot.vip:80/live/listatvs/controliptv/985995.ts
