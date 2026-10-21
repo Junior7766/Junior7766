@@ -15,8 +15,8 @@ exports.handler = async (event, context) => {
     if (acessoPermitido) {
         const conteudoTxt = `{
     "user_info": {
-        "username": "listatvs",
-        "password": "controliptv",
+        "username": "123456789",
+        "password": "123456789",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -32,7 +32,7 @@ exports.handler = async (event, context) => {
         ]
     },
     "server_info": {
-        "url": "play.dnsrot.vip",
+        "url": "appglobal.sbs",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
